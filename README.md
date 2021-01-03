@@ -1,0 +1,2 @@
+# technical
+Technical Page Sample
